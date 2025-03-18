@@ -13,7 +13,7 @@ This application will use the [name of API] API. Below are the documentation and
 - Link to API documentation: https://www.themealdb.com/api.php
 - API endpoint #1
   - Recipe
-  - List of data values used by the endpoint
+  - Will be pulling the ingrediants
 - API endpoint #2
   - Recipe
   - List of data values used by the endpoint
@@ -41,14 +41,10 @@ The application will feature the following frontend routes and core features:
 
 If time permits, the following stretch features will be implemented in order of priority:
 
-- Users will be able to...
-- Users will be able to...
-- Users will be able to...
-
-**Example:**
-
-- Users will be able to save and view favorited artworks using local storage
-- Users will be able to change the color scheme of the website from light mode to dark mode
+- creating the drinks to be able to be looked at in a tinder POV (swipe left for no and right to save)
+- we will be able to have drinks and foods linked based on what goes better with each other
+- Users will be able to have a profile to save their "to do laters"
+- Light and dark mode !!
 
 ## 📆 Timeline for reaching MVP in 1 week
 
@@ -56,38 +52,34 @@ To ensure that we can complete all core features of the application in 1 week, w
 
 **Day 1**
 
-- [ ] Ticket description and due date
-- [ ] Ticket description and due date
-- [ ] Ticket description and due date
+- Finishing wireframe (EOD)
+- Finishing proposal (EOD)
 
 **Day 2**
 
-- [ ] Ticket description and due date
-- [ ] Ticket description and due date
-- [ ] Ticket description and due date
+- Create drink fecthes
+- Create recipe fetches
+- Pull all photos for the fetches and have them display on page (EOD)
 
 **Day 3** (MVP due by the end of the day)
 
-- [ ] Ticket description and due date
-- [ ] Ticket description and due date
-- [ ] Ticket description and due date
+- Create a search bar that functions (EOD)
+- Put some CSS onto the page (background, fonts, minor picture)
+- have a semi functional site
 
 **Day 4**
 
-- [ ] Ticket description and due date
-- [ ] Ticket description and due date
-- [ ] Ticket description and due date
+- Begin to finalize CSS
+- Finalize missing page details
+- Begin working on stretch users (if we have time)
 
 **Day 5**
 
-- [ ] Ticket description and due date
-- [ ] Ticket description and due date
-- [ ] Ticket description and due date
+- Finalize CSS
+- Stretch features
 
 ## Wireframes of each page in your application
 
 Below, you can find wireframes for our project. Each wireframe shows a different page of our application as well as the key components of the application. Details such as specific text values or images are intentionally not included:
 
-[Wireframe for page 1]
-
-[Wireframe for page 2]
+https://docs.google.com/document/d/1gO9v9aFQc1RTVodhegTPMFO7SKR6y7MIedl0dxyuLyU/edit?usp=sharing
