@@ -1,4 +1,4 @@
-# [Project Name]
+# Cocktail Shakeup
 
 Created by Catalina Dinozo and Irma Barrios.
 
